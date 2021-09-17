@@ -1,1 +1,1 @@
- npx tailwindcss-cli build -i css/tailwind.css -o build/tailwind.css
+ npx tailwindcss-cli build -i css/tailwind.css -o build/iws.css

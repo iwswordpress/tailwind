@@ -716,6 +716,15 @@ video {
   --tw-ring-opacity: 0.5;
 }
 
+.test {
+  text-align: center;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  --tw-text-opacity: 1;
+  color: rgba(29, 78, 216, var(--tw-text-opacity));
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
