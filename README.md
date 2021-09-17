@@ -1,15 +1,3 @@
-# 05: Composing Utilities with @apply – Tailwind CSS: From Zero to Production
+01-INIT branch has base build to develop a final tailwind css file.
 
-[Watch the screencast](https://www.youtube.com/watch?v=TrftauE2Vyk)
-
-Install the required dependencies with `npm`:
-
-```sh
-npm install
-```
-
-Then start the dev server:
-
-```sh
-npm run dev
-```
+MAIN
